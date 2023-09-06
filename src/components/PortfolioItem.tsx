@@ -10,6 +10,9 @@ const PortfolioItem = ({ title, imgUrl, stack, link }: any) => {
         <h3 className="text-lg md:text-xl dark:text-white mb-2 md:mb-3 font-semibold">
           {title}
         </h3>
+        <h4 className="hover:text-yellow-300">
+          <a href={link}>{link}</a>
+        </h4>
         <p>
           {stack.map((item: any) => (
             <span>{item} </span>
