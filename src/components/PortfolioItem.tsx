@@ -12,7 +12,7 @@ const PortfolioItem = ({ title, imgUrl, stack, link }: any) => {
         </h3>
         <p>
           {stack.map((item: any) => (
-            <span>{item}</span>
+            <span>{item} </span>
           ))}
         </p>
       </div>
