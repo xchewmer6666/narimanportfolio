@@ -16,9 +16,11 @@ export default [
     link: "https://minecraftclone.onrender.com",
   },
   {
-    title: "Mockup Container(aggregation of mockups)",
+    title:
+      "Mockup Container(aggregation of mockups) -- all dependencies remain updated",
     imgUrl: mc,
     stack: ["React", "Vue", "Next|Nuxt", "Svelte Kit"],
+    link: "https://mockupcontainer.onrender.com",
   },
   {
     title: "ctOS_Chat App(work in progress)",
