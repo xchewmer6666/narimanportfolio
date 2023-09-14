@@ -9,6 +9,10 @@ const Contact = () => {
           method="POST"
           className="flex flex-col w-full md:w-7/12"
         >
+          <h4>
+            <p>Email me:</p>
+            <a href="mailto:ntnirvana91@gmail.com">ntnirvana91@gmail.com</a>
+          </h4>
           <Title>Contact</Title>
           <input
             type="text"
