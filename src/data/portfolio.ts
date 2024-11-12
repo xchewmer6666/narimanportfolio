@@ -1,14 +1,7 @@
-import jz from "../assets/jordanzone.png";
 import mn from "../assets/minecraft.png";
 import mc from "../assets/mockups.png";
 
 export default [
-  {
-    title: "Jordanzone",
-    imgUrl: jz,
-    stack: ["HTML", "CSS", "JavaScript", "React"],
-    link: "https://jordanzone.ir",
-  },
   {
     title: "Minecraft Clone",
     imgUrl: mn,
