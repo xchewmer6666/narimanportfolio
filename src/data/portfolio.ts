@@ -1,5 +1,6 @@
 import mn from "../assets/minecraft.png";
 import mc from "../assets/mockups.png";
+import btnk from "../assets/boutank.png";
 
 export default [
   {
@@ -13,6 +14,12 @@ export default [
     imgUrl: mc,
     stack: ["React", "Vue", "Next|Nuxt", "Svelte Kit"],
     link: "https://mockupcontainer.onrender.com",
+  },
+  {
+    title: "boutank",
+    imgUrl: btnk,
+    stack: ["React"],
+    link: "https://boutank.onrender.com",
   },
   {
     title: "Tailwind Component Collection 0x01 (TailKit)",
